@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title><h1> Excerpts From Select Public Domain Books</h1></title>
+  <title>Excerpts From Select Public Domain Books</title>
   </head>
   <body>
+  <h1>Excerpts From Select Public Domain Books</h1>
    <table>
      <tr>
 	   <td>Book title</td>
@@ -17,9 +18,10 @@
 	 <tr>
 	   <td><em>Peter Pan</em></td>
 	   <td>J.M. Barrie</td>
-	 </tr>
+	   <td> L. Frank Baum</td>
 	 <tr>
 	   <td><em>The Wonderful Wizard of OZ</em></td>
+	   <td>
 	 </tr>
    </table>
    
